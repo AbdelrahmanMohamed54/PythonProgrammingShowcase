@@ -6,6 +6,8 @@ Welcome to the PythonProgrammingShowcase repository! 🐍💻
 
 This repository serves as a testament to my journey in mastering Python through the Programming 2 course at university. Exploring a range of topics, from foundational Python concepts to advanced GUI development and multithreading. This repository showcases my ability to apply Python knowledge to real-world problems, demonstrating proficiency in clean code, error handling, and project organization.
 
+---
+
 ## Table of Contents
 
 1. [Introduction](#Introduction)
@@ -14,6 +16,8 @@ This repository serves as a testament to my journey in mastering Python through 
 4. [How to Use](#how-to-Run)
 5. [Contributions](#contributions)
 6. [License](#license)
+
+---
 
 ## Course Highlights:
 
@@ -57,6 +61,7 @@ This repository serves as a testament to my journey in mastering Python through 
 - Scaling and Architecture
 - Object-Oriented Programming (OOP) and Design Patterns
 
+---
 
 ## Project Highlights:
 
@@ -81,19 +86,25 @@ This repository serves as a testament to my journey in mastering Python through 
 - Multithreaded image-to-ASCII conversion for improved performance.
 - Save generated ASCII art to a text file with file selection dialogue.
 
+---
 
 ## How to Run:
 
 - Each project folder contains its own README.md with specific instructions.
 - Ensure the required modules (e.g., Tkinter, time) are installed using `pip install`.
 
+---
+
 ## Contributions:
 
 Feel free to explore, contribute, or provide feedback. I appreciate collaboration and the opportunity to continuously improve my coding skills.
+
+---
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE), allowing you to use, modify, and distribute the code. See the [LICENSE](LICENSE) file for details.
 
+---
 
 Thank you for visiting and happy coding! 🚀🐍

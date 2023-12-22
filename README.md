@@ -57,3 +57,27 @@ This repository serves as a testament to my journey in mastering Python through 
 - Scaling and Architecture
 - Object-Oriented Programming (OOP) and Design Patterns
 
+
+## Project Highlights:
+
+### 1. Connect Four Console Game:
+
+- Implementation of Connect Four in the Python console.
+- Dynamic board size, human vs. AI gameplay with Minimax algorithm.
+- Optimal AI moves using Minimax for small board sizes.
+- Explore and adapt existing Minimax implementations, with proper citation.
+
+### 2. GUI Clock and Timer:
+
+- Graphical user interface for displaying current time, day, and date.
+- Timer functionality with start, stop, and timing log to a file.
+- Countdown feature with editable text fields for setting minutes and seconds.
+- Simultaneous use of timer and countdown.
+
+### 3. ASCII Art Editor:
+
+- GUI for converting images to ASCII art using user-defined character sets.
+- Grayscale image conversion with selectable methods.
+- Multithreaded image-to-ASCII conversion for improved performance.
+- Save generated ASCII art to a text file with file selection dialogue.
+

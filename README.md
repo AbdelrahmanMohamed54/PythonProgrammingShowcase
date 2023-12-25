@@ -22,7 +22,6 @@ This repository serves as a testament to my journey in mastering Python through 
 ### Introduction to Python:
 
 - **Basics:**
-  - Overview
   - Printing and Variables
   - Strings
   - Numbers

@@ -9,8 +9,7 @@ This Python program creates a graphical user interface (GUI) application for a c
 1. [Installation](#installation)
 2. [How to Use](#how-to-use)
 3. [Features](#features)
-4. [Screenshots](#screenshots)
-5. [Acknowledgements](#acknowledgements)
+4. [Acknowledgements](#acknowledgements)
 
 ## Installation
 
